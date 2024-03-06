@@ -1,0 +1,1 @@
+To improve accessibility, alt text needs to be added to images
